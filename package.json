@@ -1,8 +1,8 @@
 {
-  "name": "create-myexpress-app",
-  "version": "1.0.0",
+  "name": "create-express-gen",
+  "version": "1.0.3",
   "bin": {
-    "create-myexpress-app": "bin/index.js"
+    "create-express-gen": "bin/index.js"
   },
   "type": "module",
   "files": [
