@@ -35,6 +35,6 @@ You don’t need to install globally. Just run it with **npx**:
 npx create-express-gen myapp
 ```
 
-[![npm version](https://img.shields.io/npm/v/create-myexpress-app)](https://www.npmjs.com/package/create-express-gen)
-[![npm downloads](https://img.shields.io/npm/dm/create-myexpress-app)](https://www.npmjs.com/package/create-express-gen)
+[![npm version](https://img.shields.io/npm/v/create-express-gen)](https://www.npmjs.com/package/create-express-gen)
+[![npm downloads](https://img.shields.io/npm/dm/create-express-gen)](https://www.npmjs.com/package/create-express-gen)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
